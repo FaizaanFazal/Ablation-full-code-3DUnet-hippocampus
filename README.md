@@ -4,7 +4,7 @@ Please cite our paper if you use this code or results:
 
 - **Paper:** *Dataset-Aware Preprocessing for Hippocampal Segmentation: Insights from Ablation and Transfer Learning*, Mathematics, 2025, DOI: [10.3390/math13203309](https://doi.org/10.3390/math13203309)
 
-### BibTeX
+## BibTeX
 ```bibtex
 @article{Khan2025_HippocampalSegmentation,
   author    = {Faizaan Fazal Khan and Jun-Hyung Kim and Ji-In Kim and Goo-Rak Kwon},
@@ -18,7 +18,7 @@ Please cite our paper if you use this code or results:
   doi       = {10.3390/math13203309},
   url       = {https://www.mdpi.com/2227-7390/13/20/3309}
 }
-
+```
 
 ## Project structure
 - analysis.ipynb — analysis/evaluation used for reported MSD NP/FP scores and paired t-test.
